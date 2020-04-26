@@ -58,6 +58,14 @@
         </a>
       </li>
     </ul>
+    <h2>Sample Page</h2>
+    <ul>
+      <li>
+        <a href="../count_up">
+          Count Up
+        </a>
+      </li>
+    </ul>
   </div>
 </template>
 
