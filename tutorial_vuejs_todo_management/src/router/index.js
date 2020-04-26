@@ -6,7 +6,7 @@ import FirstPractice from '@/components/FirstPractice'
 Vue.use(Router)
 
 export default new Router({
-  mode: 'history', //Vue.jsのURLに含まれる#を取り除きたい
+  mode: 'history', // Vue.jsのURLに含まれる#を取り除きたい
   routes: [
     {
       path: '/',
